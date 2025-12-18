@@ -1,0 +1,5 @@
+{
+  "name": "booth tracker dashboard",
+  "description": "A professional dashboard for monitoring smart booth telemetry including CO2, TVOC, humidity, temperature, and occupancy with advanced analytics.",
+  "requestFramePermissions": []
+}
