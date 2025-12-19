@@ -1,0 +1,1 @@
+// Configuration moved to index.html for CDN usage

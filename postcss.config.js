@@ -1,0 +1,1 @@
+// Configuration not required for CDN usage
