@@ -11,7 +11,6 @@ export interface Booth {
     humidity: number; // %
     tvoc: number; // ppb
     occupancy: boolean;
-    noise: number; // db
   };
   // Coordinates for floorplan (0-100 percentage)
   x: number;
